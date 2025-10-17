@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Subramanian-Thiagarajan/insurance-chatbot-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Subramanian-Thiagarajan/insurance-chatbot-frontend.git
